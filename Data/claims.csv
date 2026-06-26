@@ -1,0 +1,11 @@
+claim_id,claim_amount,status,claim_date
+1001,500,Approved,2026-01-01
+1002,,Pending,2026-01-02
+1002,300,Pending,2026-01-02
+1003,-100,Rejected,invalid_date
+1004,750,Approved,2026-02-15
+1005,900,Approved,2026-03-20
+1006,,Pending,2026-03-25
+1007,-50,Rejected,2026-04-01
+1007,-50,Rejected,2026-04-01
+1008,1200,Approved,wrong_date
